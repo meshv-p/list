@@ -9,7 +9,7 @@ header{
     text-align: center;
 }
 .main{
-    border: 1px solid red;
+   /* border: 1px solid red; */
     /* height: 100vh; */
     /* grid-template-columns: repeat(3,103px);
     display: grid;
